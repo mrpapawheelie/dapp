@@ -22,7 +22,7 @@
     "encoding": "^0.1.13",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "lokijs": "^1.5.12",
     "lucide-react": "^0.303.0",
     "next": "14.0.4",
