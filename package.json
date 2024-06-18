@@ -33,7 +33,7 @@
     "tailwindcss-animate": "^1.0.7",
     "tls": "^0.0.1",
     "typescript": "5.3.3",
-    "viem": "^1.21.4",
-    "wagmi": "^1.0.9"
+    "viem": "^2.15.1",
+    "wagmi": "^2.0.1"
   }
 }
